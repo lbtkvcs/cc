@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#08090b"/>
+<rect x="38" y="34" width="1124" height="632" rx="22" fill="#101217" stroke="#292d36"/>
+<text x="78" y="90" fill="#9a9da7" font-family="Arial" font-size="14" letter-spacing="3">NORTH/FORM · GRAPHIC DESIGN PORTFOLIO</text>
+<text x="78" y="190" fill="#f2efe9" font-family="Georgia" font-size="72">Good design</text>
+<text x="78" y="265" fill="#bbb9b2" font-family="Georgia" font-size="72" font-style="italic">creates clarity.</text>
+<text x="80" y="320" fill="#9a9da7" font-family="Arial" font-size="18">IDENTITY · EDITORIAL · POSTERS · DIGITAL</text>
+<g transform="translate(850 195)" fill="none" stroke="#686d7c">
+<ellipse cx="0" cy="0" rx="150" ry="65"/>
+<ellipse cx="0" cy="0" rx="150" ry="65" transform="rotate(67)"/>
+<ellipse cx="0" cy="0" rx="135" ry="55" transform="rotate(-31)"/>
+</g>
+<text x="910" y="202" fill="#f2efe9" font-family="Georgia" font-size="30">✦</text>
+<g transform="translate(78 405)">
+<rect width="245" height="185" rx="15" fill="#14241d"/><text x="28" y="105" fill="#ece4d7" font-family="Georgia" font-size="43">NORA</text>
+<rect x="265" width="245" height="185" rx="15" fill="#cdbda4"/><text x="292" y="105" fill="#111" font-family="Arial" font-size="39" font-weight="700">RITMAI</text>
+<rect x="530" width="245" height="185" rx="15" fill="#efeee9"/><text x="557" y="82" fill="#171717" font-family="Arial" font-size="15" font-weight="700">LUMA</text><text x="557" y="125" fill="#171717" font-family="Georgia" font-size="29">BETTER IDEAS</text>
+<rect x="795" width="245" height="185" rx="15" fill="#8b7865"/><text x="822" y="85" fill="#e8dfd5" font-family="Arial" font-size="13" letter-spacing="3">SKIRIAMA</text><text x="822" y="140" fill="#e8dfd5" font-family="Georgia" font-size="32">ŽMOGUI</text>
+</g></svg>
